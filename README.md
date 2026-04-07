@@ -14,3 +14,6 @@ Example: /banhammer 1 hour.
 The example will result in giving you a banhammer that bans a player for 1 hour when hit.
 
 The player must be in survival mode.
+
+# Download
+[Click here to download the plugin!](https://github.com/cattomakesplugins/banhammerv2/raw/refs/heads/main/banhammerv2-1.0-SNAPSHOT.jar)
