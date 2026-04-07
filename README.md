@@ -11,7 +11,6 @@ When using this plugin, Please give credits to the owner.
 Command Usage: /banhammer 1-60 second/minute/hour/day/week/month/year.
 
 Example: /banhammer 1 hour.
-
 The example will result in giving you a banhammer that bans a player for 1 hour when hit.
 
 The player must be in survival mode.
