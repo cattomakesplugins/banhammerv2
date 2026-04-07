@@ -17,3 +17,7 @@ The player must be in survival mode.
 
 # Download
 [Click here to download the plugin!](https://github.com/cattomakesplugins/banhammerv2/raw/refs/heads/main/banhammerv2-1.0-SNAPSHOT.jar)
+
+# Credits
+Minecraft Username: Djoekjes
+Current Discord Username: catto18314
