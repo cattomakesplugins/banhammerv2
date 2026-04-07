@@ -20,4 +20,5 @@ The player must be in survival mode.
 
 # Credits
 Minecraft Username: Djoekjes
+
 Current Discord Username: catto18314
